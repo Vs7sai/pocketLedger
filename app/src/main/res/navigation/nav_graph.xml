@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.v7techsolution.pocketledger.ui.home.HomeFragment"
+        android:label="@string/nav_home" />
+
+    <fragment
+        android:id="@+id/navigation_accounts"
+        android:name="com.v7techsolution.pocketledger.ui.accounts.AccountsFragment"
+        android:label="@string/nav_accounts" />
+
+    <fragment
+        android:id="@+id/navigation_budgets"
+        android:name="com.v7techsolution.pocketledger.ui.budgets.BudgetsFragment"
+        android:label="@string/nav_budgets" />
+
+    <fragment
+        android:id="@+id/navigation_reports"
+        android:name="com.v7techsolution.pocketledger.ui.reports.ReportsFragment"
+        android:label="@string/nav_reports" />
+
+    <fragment
+        android:id="@+id/navigation_analytics"
+        android:name="com.v7techsolution.pocketledger.ui.analytics.AnalyticsChartsFragment"
+        android:label="@string/nav_reports" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.v7techsolution.pocketledger.ui.settings.SettingsFragment"
+        android:label="@string/nav_settings" />
+
+</navigation>

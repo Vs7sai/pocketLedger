@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketLedger</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Screen -->
+    <string name="today_balance">Today\'s Balance</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="no_transactions_yet">No transactions yet — tap + to add your first expense.</string>
+    <string name="add_transaction">Add Transaction</string>
+    
+    <!-- Transaction Types -->
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="transfer">Transfer</string>
+    
+    <!-- Common UI -->
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="account">Account</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="quick_add_transaction">Quick Add Transaction</string>
+    
+    <!-- Categories -->
+    <string name="food_dining">Food &amp; Dining</string>
+    <string name="transportation">Transportation</string>
+    <string name="shopping">Shopping</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="utilities">Utilities</string>
+    <string name="salary">Salary</string>
+    <string name="freelance">Freelance</string>
+    
+    <!-- Accounts -->
+    <string name="cash">Cash</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="debit_card">Debit Card</string>
+    
+    <!-- Budgets -->
+    <string name="monthly_budgets">Monthly Budgets</string>
+    <string name="budget_amount">Budget Amount</string>
+    <string name="budget_spent">Spent</string>
+    <string name="budget_remaining">Remaining</string>
+    
+    <!-- Reports -->
+    <string name="monthly_summary">Monthly Summary</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <string name="income_vs_expenses">Income vs Expenses</string>
+    <string name="export_report">Export Report</string>
+    
+    <!-- Settings -->
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="export_data">Export Data</string>
+    <string name="import_data">Import Data</string>
+    <string name="csv_import">CSV Import</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    
+    <!-- Payment Reminders -->
+    <string name="payment_reminders">Payment Reminders</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="reminder_title">Reminder Title</string>
+    <string name="due_date">Due Date</string>
+    <string name="reminder_days">Reminder Days</string>
+    <string name="mark_as_paid">Mark as Paid</string>
+    <string name="reminders_empty">No payment reminders set — tap + to add your first reminder.</string>
+    
+    <!-- CSV Import/Export -->
+    <string name="choose_file">Choose File</string>
+    <string name="preview_data">Preview Data</string>
+    <string name="map_columns">Map Columns</string>
+    <string name="validate_import">Validate &amp; Import</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_backup">Export Backup</string>
+    
+    <!-- Notifications -->
+    <string name="payment_due_soon">Payment Due Soon</string>
+    <string name="payment_due_tomorrow">Payment due tomorrow</string>
+    <string name="payment_overdue">Payment overdue</string>
+</resources>

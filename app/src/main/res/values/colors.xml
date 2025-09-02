@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#A5B4FC</color>
+    <color name="primary_gradient_start">#6366F1</color>
+    <color name="primary_gradient_end">#8B5CF6</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#10B981</color>
+    <color name="secondary_dark">#059669</color>
+    <color name="secondary_light">#6EE7B7</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent">#F59E0B</color>
+    <color name="accent_dark">#D97706</color>
+    <color name="accent_light">#FCD34D</color>
+    
+    <!-- Background Colors -->
+    <color name="background_gradient">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_disabled">#94A3B8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Card Colors -->
+    <color name="income_card">#ECFDF5</color>
+    <color name="expense_card">#FEF2F2</color>
+    <color name="net_income_card">#FEF3C7</color>
+    <color name="transactions_card">#EFF6FF</color>
+    
+    <!-- Icon Colors -->
+    <color name="income_icon">#10B981</color>
+    <color name="expense_icon">#EF4444</color>
+    <color name="net_income_icon">#F59E0B</color>
+    <color name="transactions_icon">#3B82F6</color>
+    
+    <!-- Chart Colors -->
+    <color name="chart_placeholder">#E2E8F0</color>
+    
+    <!-- Empty State Colors -->
+    <color name="empty_state_icon">#CBD5E1</color>
+    
+    <!-- Status Colors -->
+    <color name="positive_balance">#10B981</color>
+    <color name="negative_balance">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_color">#F59E0B</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Legacy Colors (keeping for compatibility) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- Additional UI Colors -->
+    <color name="chip_background_color">#F1F5F9</color>
+    <color name="divider_color">#E2E8F0</color>
+    <color name="shadow_color">#1F2937</color>
+    <color name="chip_background_selected">#E0E7FF</color>
+    <color name="chip_background_unselected">#FFFFFF</color>
+    <color name="info_light">#EFF6FF</color>
+    
+    <!-- Material 3 Required Colors -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E0E7FF</color>
+    <color name="on_primary_container">#1E1B4B</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#D1FAE5</color>
+    <color name="on_secondary_container">#064E3B</color>
+    <color name="tertiary">#F59E0B</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#FEF3C7</color>
+    <color name="on_tertiary_container">#451A03</color>
+    <color name="error">#EF4444</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#FEE2E2</color>
+    <color name="on_error_container">#450A0A</color>
+    <color name="on_surface">#1E293B</color>
+    <color name="on_surface_variant">#64748B</color>
+    <color name="background">#F8FAFC</color>
+    <color name="on_background">#1E293B</color>
+    <color name="outline">#CBD5E1</color>
+    <color name="outline_variant">#E2E8F0</color>
+    
+    <!-- Legacy Colors for Compatibility -->
+    <color name="neutral_balance">#9E9E9E</color>
+    <color name="chip_text_color">#212121</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_middle">#8B5CF6</color>
+    <color name="gradient_end">#EC4899</color>
+</resources>
